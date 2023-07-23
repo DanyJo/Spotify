@@ -1,5 +1,5 @@
 # Spotify  
-Uni project for the Modern Java Technologies course  
+Uni project for the Modern Java Technologies course, FMI, 2023  
 
 # Spotify :notes:
 
